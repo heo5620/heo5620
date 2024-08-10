@@ -34,7 +34,6 @@
   #### Tool
   ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-003D54.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-AB0D6D.svg?style=for-the-badge&logo=figma&logoColor=white)
   
   <br>
   <br>
