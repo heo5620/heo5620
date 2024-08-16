@@ -38,9 +38,12 @@
   <br>
   <br>
 
-  ## Github Status
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heo5620)](https://github.com/anuraghazra/github-readme-stats)
-
+  ## 🧮 Statistics
+  ### Github Status
+  ![Heosubing's GitHub stats](https://github-readme-stats.vercel.app/api?username=heo5620&count_private=true&show_icons=true)
+  ### Top Langs
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heo5620)
+  
   <br>
   <br>
 
